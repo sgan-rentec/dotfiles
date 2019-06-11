@@ -50,4 +50,3 @@ noremap k gk
 " highlight last inserted text
 noremap gV '[v']
 "}}}
-"set fire
